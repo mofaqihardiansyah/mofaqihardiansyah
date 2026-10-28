@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="220" viewBox="0 0 960 220" role="img" aria-label="Faqih Ardiansyah - IoT and Web Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1120"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#818cf8"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
+    </linearGradient>
+  </defs>
+  <rect width="960" height="220" rx="14" fill="url(#bg)"/>
+  <rect x="0" y="0" width="960" height="220" rx="14" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+  <circle cx="845" cy="60" r="90" fill="#818cf8" opacity="0.12"/>
+  <circle cx="900" cy="175" r="60" fill="#38bdf8" opacity="0.10"/>
+  <rect x="56" y="72" width="7" height="86" rx="3.5" fill="url(#accent)"/>
+  <text x="84" y="112" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="44" font-weight="700" fill="#f1f5f9">Faqih Ardiansyah</text>
+  <text x="86" y="148" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="21" font-weight="500" fill="#cbd5e1">IoT &amp; Web Developer</text>
+  <text x="86" y="178" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#94a3b8">Building smart devices and the web apps that talk to them</text>
+</svg>
